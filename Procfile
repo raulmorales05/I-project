@@ -1,1 +1,1 @@
-$ uvicorn example:app --reload --port 5000
+uvicorn example:app --reload --port 5000
